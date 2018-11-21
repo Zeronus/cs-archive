@@ -1,0 +1,26 @@
+# Assignment 1, Task 3
+# Name: Naran Kongpithaksilp (Tan)
+# Collaborators: None
+# Time spent: 0:12 hours (12:22 minutes)
+
+PART I
+
+1. 4.67     float
+2. 7.0      float
+3. 3        integer
+4. 3        integer
+5. 77       float
+6. 77       float
+7. 23       integer
+8. 20       integer
+9. 20.75    float
+10. 20.75   float
+
+
+PART II
+
+1. a is an integer with a value of 6
+2. c is an integer with a value of 8
+3. a is an integer with a value of 9
+4. e is a float with a value of 9.3125
+5. c is a float with a value of 38.265625

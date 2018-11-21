@@ -1,0 +1,18 @@
+# Assignment 1, Task 4
+# Name: Naran Kongpithaksilp (Tan)
+# Collaborators: None
+# Time spent: 0:08 hours (7:56 minutes)
+
+PROGRAM I
+
+All settings of x and y where print(x or not y) will print True
+
+1. x = true     2. x = true     3. x = false
+   y = true        y = false       y = false
+
+   
+PROGRAM II
+
+For x%20//10 to equal to 1, the value of x%20 must be >= 10.
+So if x%20 = 10, x must be 50
+Therefore the smallest possible integer of x for the code to print True = 50

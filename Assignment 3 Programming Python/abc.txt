@@ -1,0 +1,14 @@
+# Assignment 3, Task 4
+# Name: Naran Kongpithaksilp (Tan)
+# Collaborators: None
+# Time Spent: 00:07 hours (7:15 minutes)
+
+1. b(),d(),a(),c()
+
+2. a(),c(),b(),b(),a()
+
+3. c(),a(),b(),b(),a()
+
+4. e(),b()
+
+5. Impossible
