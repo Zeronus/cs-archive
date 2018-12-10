@@ -6,10 +6,6 @@
 
 from random import shuffle
 
-card_values = ['Ace',2,3,4,5,6,7,8,9,10,'Jack','Queen','King']
-card_suits = ['SPADES','CLUBS','DIAMONDS','HEARTS']
-deck = [[value,suit] for value in card_values for suit in card_suits]
-
 def handTotals(hand):
     total = 0
     for card in hand:
@@ -24,6 +20,9 @@ def handTotals(hand):
     return total
         
 def blackjack():
+    card_values = ['Ace',2,3,4,5,6,7,8,9,10,'Jack','Queen','King']
+    card_suits = ['SPADES','CLUBS','DIAMONDS','HEARTS']
+    deck = [[value,suit] for value in card_values for suit in card_suits]
     shuffle(deck)
     playerHand = [deck.pop(),deck.pop()]
     dealerHand = [deck.pop(),deck.pop()]
@@ -71,9 +70,8 @@ if option == '1':
         if restart == '1':
             continue
         elif restart == '2':
-            quit()
-elif option == '2':
-    quit()
+            break
+quit()
     
     
     
